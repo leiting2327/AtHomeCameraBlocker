@@ -8,6 +8,8 @@ It runs silently at boot and blocks the camera program by default, with no tray 
 
 ---
 
+English | [中文](README.zh-CN.md)
+
 ## Features
 
 - **One-click disconnect / reconnect** — adds or removes a Windows Firewall outbound-block rule for the target program.
@@ -85,6 +87,7 @@ The output is a single `AtHomeCameraBlocker.exe` (~15 KB).
 ```
 AtHomeCameraBlocker/
 ├── README.md
+├── README.zh-CN.md      (Chinese version)
 ├── LICENSE              (MIT)
 ├── .gitignore
 ├── build.bat            (one-click build)
